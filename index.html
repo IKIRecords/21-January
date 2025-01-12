@@ -7,6 +7,32 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+</head>
+<body>
+    <audio controls>
+        <source src="assets/Sampai Jadi Debu - Banda Naira (Lirik Lagu) - Despi Lirik.mp3" type="audio/mp3">
+        Your browser does not support the audio element.
+    </audio>
+    
+    <button onclick="playMusic()">KLIK INI DULU</button>
+
+    <script>
+        function playMusic() {
+            const music = document.getElementById('background-music');
+            music.play();
+        }
+    </script>
+</body>
+</html>
+</body>
+</html>
+
     <a href="music-player.html">Play Music</a>
 
     <div class="container">
