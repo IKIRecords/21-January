@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun, Najmi!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <iframe src="music-player.php" frameborder="0" class="music-player" allow="autoplay"></iframe>
+
+    <div class="container">
+        <h1 class="title">Selamat Ulang Tahun, Najmi! 🌸✨</h1>
+        <p class="subtitle">Website ini dibuat oleh Intan cantik untuk Najmi tersayang 💖🌟</p>
+
+
+        </div>
+
+        <div class="section">
+            <h2 class="section-title">Halo ayang akuu 🎉🎂</h2>
+            <p class="section-description">
+                Selamat ulang tahun yang ke-20, Muhammad Najmi Al Azhar!, aku bersyukur ketemu kam dalam hidupku. Usia 20 tahun adalah usia yang penuh dengan harapan dan impian baru, dan aku tau kam akan mengukir banyak hal indah di perjalanan hidup kam ke depan. Terima kasih sudah selalu menjadi tempat aku berteduh, sumber kebahagiaan, dan juga pahlawan dalam hidupku. Aku merasa sangat beruntung bisa memiliki kam di sisi aku.<br><br>
+
+                Kam adalah sosok yang luar biasa, dengan hati yang penuh kasih dan keberanian yang tak terbatas. Setiap langkah yang kam ambil selalu bermakna dengan semangat dan tekad yang kuat. Aku mengagumi kam banar, semangat kam dalam mengejar impian dan kayapa kam selalu berusaha menjadi versi terbaik dari diri kam. Di usia yang baru ini, aku yakin kam akan semakin sukses, dan segala usaha serta doa yang kam selalu harapkan akan membuahkan hasil yang lebih dari yang kam bayangkan.<br><br>
+
+                Bersama ayang aku, aku belajar banyak tentang arti ketulusan, perjuangan, dan arti cinta yang sesungguhnya. Kam membuat setiap hari terasa lebih bahagia dan penuh dengan rasa kasih sayang. Dari kebersamaan yang kita jalani, aku tau kita akan melewati segala tantangan yang ada, dan kita akan terus tumbuh bersama. Semoga di tahun yang baru ini, kam menemukan kebahagiaan yang lebih besar dan sukses yang lebih nyata. jangan pernah tekutan gasan mengejar impian kam, karena aku selalu ada di sini untuk mendukung kam.<br><br>
+
+                Aku tau, terkadang hidup membawa kita pada jalan yang penuh rintangan. Tapi aku percaya, dengan ketulusan hati dan kerja keras yang kam miliki, kededa yang kada kawa kam capai. Kam punya potensi luar biasa, dan aku yakin orang banyak akan melihat betapa hebatnya ikam. Di usia ayang yang ke-20 ini, aku handak kam tau bahwa aku selalu ada gasan kam memberikan semangat dan dukungan di setiap langkah perjalanan kam.<br><br>
+
+                Selamat berjuang untuk setiap hal yang selalu kam impikan, ayangg . Aku tau kam punya kekuatan untuk meraih segala yang kam impikan, apapun itu. Jangan takut gasan mencoba hal baru dan selalu percaya pada kemampuan kam sendiri. Setiap kegagalan bakalan mengajarkan kita lebih banyak hal gasan menjadi lebih baik. Terus kerja keras teruslah berkembang, dan selalu ingat bahwa aku selalu ada di sini gasan menemani kam melewati semuanya.<br><br>
+
+                Di usia kam yang ke-20 ini, semoga hidup ikam penuh dengan kesempatan-kesempatan indah yang akan membawa kam menuju masa depan yang cerah. Semoga kebahagiaan selalu menyertai ikam, dan kesuksesan senantiasa datang menghampiri kam. Aku berharap semua impian ikam dapat tercapai dengan cara yang indah dan penuh berkah. Ayang aku berhak mendapatkan segala hal terbaik dalam hidup nya, dan aku berdoa semoga Tuhan selalu memberikan yang terbaik untuknya.<br><br>
+
+                Aku ingin kam selalu ingat, bahwa aku sayang banar wan kam. Cinta yang tulus, yang tumbuh setiap hari dengan kekuatan yang semakin besar. Kam adalah segalanya bagi aku, dan aku berjanji untuk selalu ada, mendukung, dan memberi semangat pada setiap langkah yang kam ambil. Terima kasih sudah membuat hidupku jauh lebih indah, lebih berarti, dan lebih penuh warna.<br><br>
+
+                Semoga kam selalu diberkahi dengan kesehatan yang baik, keberanian untuk terus maju, dan hati yang penuh cinta. Semoga segala tantangan yang kam hadapi akan menguatkan dan menjadikan kam lebih bijaksana. Aku percaya kam punya segalanya untuk mencapai kebahagiaan dan kesuksesan yang tak terhingga. Bersama kam, aku yakin hidup ini semakin berarti.<br><br>
+
+                Aku handak berterima kasih karena sudah menjadi sosok yang selalu ada di saat aku membutuhkan semangat, di saat aku merasa lelah, di saat aku merasa ingin menyerah. Ayang aku selalu mengingatkan aku untuk tetap kuat dan percaya pada diri sendiri. Semoga cinta dan kebahagiaan yang kam beri pada dunia kembali pada kam dengan cara yang lebih indah. Aku selalu berdoa untuk kebaikan dan kesuksesan kam di masa depan.<br><br>
+
+                Selamat ulang tahun sekali lagi, Ayang aku! Semoga di usia kam yang ke-20 ini, hidup ikam semakin penuh dengan cinta, kebahagiaan, dan impian yang menjadi kenyataan. Aku selalu bangga menjadi bagian dari perjalanan hidup kam, dan aku kada sabar menunggu segala hal hebat yang akan datang di masa depan. Teruslah bersinar, teruslah menjadi diri kam yang luar biasa, dan selalu ingat aku selalu mencintai kam, apapun yang terjadi. 💖
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dear Najmi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<iframe src="music-player.php" style="display: none;" id="music-frame"></iframe>
+
+    <div class="container">
+        <h1 class="title">Dear Najmi</h1>
+        <div class="poem">
+            <h3>Puisi untuk Najmi Tersayang</h3>
+            <p>
+Di bawah langit penuh cahaya,
+Aku temukan dirimu, cinta yang nyata.
+Seperti bintang yang setia bersinar,
+Kehadiranmu buat hatiku tak pernah gentar.
+
+Kamu adalah tawa di kala sepi,
+Pelukmu hangat di saat aku sunyi.
+Setiap langkah bersamamu adalah berkah,
+Mengisi hari dengan cinta tanpa lelah.
+
+Dalam matamu, ada dunia yang indah,
+Di sana aku temukan arti dari tabah.
+Ketulusanmu adalah pelita,
+Membimbingku di setiap cerita.
+
+Najmi, kau rumah tempat hatiku pulang,
+Tempat semua rasa selalu datang.
+Aku bersyukur pada takdir yang memberi,
+Kesempatan mencintai kamu sepenuh hati.
+
+Kamu adalah harapan di setiap pagi,
+Cinta yang menguatkan ketika aku letih.
+Semoga kisah kita terus abadi,
+Seperti senja yang tak pernah pergi.
+
+Jika waktu adalah lautan yang luas,
+Cinta kita adalah perahu yang kokoh dan tulus.
+Mengarungi ombak dengan doa dan janji,
+Sampai akhir waktu, aku ingin di sini.
+
+Setiap detik bersamamu adalah keajaiban,
+Menjadi bagian dari cinta yang tak terpisahkan.
+Kita adalah dua hati yang bersatu,
+Berlari menuju masa depan penuh haru.
+
+Najmi, terima kasih telah menjadi dirimu,
+Pribadi yang selalu hangat dan lucu.
+Aku ingin mencintaimu lebih dalam lagi,
+Hingga akhir hayat nanti.</p>
+        </div>
+        <div class="poem">
+            <h3>Bintang</h3>
+            <p>Seperti bintang yang bersinar,<br>
+            Kau adalah cahaya malamku,<br>
+            Menghangatkan hati yang beku,<br>
+            Aku cinta kamu, selalu.</p>
+        </div>
+        <div class="poem">
+            <h3>Harapan</h3>
+            <p>Semoga cinta kita kekal,<br>
+            Bersama dalam suka duka,<br>
+            Selamat ulang tahun, sayang,<br>
+            Kamu adalah segalanya.</p>
+        </div>
+        <div class="poem">
+            <h3>Selamanya</h3>
+            <p>Tak ada yang bisa menggantikanmu,<br>
+            Di hatiku hanya ada kamu,<br>
+            Najmi, cintaku selamanya,<br>
+            Mari buat kenangan baru.</p>
+        </div>
+        <div class="poem">
+            <h3>Untukmu</h3>
+            <p>Untukmu yang selalu tersenyum,<br>
+            Ku persembahkan seluruh cintaku,<br>
+            Bahagia ini hanya untukmu,<br>
+            Selamat ulang tahun, cintaku.</p>
+        </div>
+        
+    </div>
+</body>
+</html>
+
+
+<!-- album.php -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Album Foto Kami</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<iframe src="music-player.php" style="display: none;" id="music-frame"></iframe>
+
+    <div class="container">
+        <h1 class="title">Album Foto Kami</h1>
+        <div class="photo">
+            <img src="ami1.jpg" alt="Foto 1">
+            <p>jadi ini tuh kisahnya aku habis bulik kuliah, terus singgah ke open space, jar aul "tan juan main sepatu roda,
+                kaya nya ada orang yang menstalk ikam tu", alhasil dicari dan sekalinya dapat, habistu kawan kita sama sama abut, terus jadilah foto ini.
+                jujur aku ketawa banar pang kaya loco aja tiba tiba ketemu di unlam, terus meantar bulik, sampai bechattan pakai kata sayang. <br>
+                ini pov dari ayang aku, inya excited, happy, gugup, kada nyangka. ayang aku kada tau bahwa inya te stalk ig aku, terus ketemu di unlam,
+                dan meantarkan aku bulik. bahkan ayang aku kada handak berpikiran pacaran, sebenarnya handak bekawan aja ujarrrrr. padahal inya
+                ngabari aku tarus wkwk, handak bekawan kah atau coba coba sekali nya dapat.💕</p>
+        </div>
+        <div class="photo">
+            <img src="ami6.jpg" alt="Foto 2">
+            <p>aku ingat disini sebenarnya aku mengganii ja, bingung handak beapa jua kaya kada nyambung tu bepanderan,
+                handak ketawa tapi kada lucu jadi bingung handak beapa, tapi bulik dari duasa kita jadi banyak bechattan.
+                ikam selalu inisiatif mencari topik, gemes banar ayang akuu <br>
+                kalo jar ayang aku, inya mengira aku pendiam, terus inya curi pandang tarus jarr, disini inya handak bekawanan ja masih.
+                padahal aku rasa sudah mikir akan kedepannya handak bechattan apa ja 🎉</p>
+        </div>
+        <div class="photo">
+            <img src="ami7.jpg" alt="Foto 3">
+            <p>nahh ini pang momen paling penting, jaka waktu itu aku kada minta mengganii nukar kue pancong, kaya nya dasar bujur bakal
+                orang yang sekedar kenal aja. karena waktu itu kisahnya kayaini, aku tuh handak banar mencobai kue pancong jadi lo aku handak
+                minta ganii kawan ku malah kededa yang kawa nya, jadi aku bawai ae ayang aku yang posisi nya masih kawan ja waktu tuu.
+                jadi sudah ni nukar kue pancong, bingung pulang handak kemana, jarku aku handak melihat sunset, terus ngide ae ke dermaga.
+                di dermaga kami banyak saling sharing, tentang kehidupan inya kayapa, apa yang bakalan inya lakukan kedepannya, 
+                awalnya cuman sekedar basa basi, tapi seiring berjalannya waktu kami mulai deeptalk. tentang masalah hubungan kami sebelumnya,
+                tentang permasalahan keluarga kami masing masing, sampai merasa punya pemikiran yang sama. momennya pas, sunset, aku dan kamu 🌸 (rawrrr) <br>
+                terus lo karena kami tadi merasa klop, lalu ae najmi pas bulikan dari dermaga tu handak nembak. jarnya "
+                jujur aja nah aku ada perasaan wan kam, kita pacaran aja sudah", terus aku jawab ae "aku lagi kada handak pacaran", terus
+                dibalas najmi "aku bakalan meulah kam jatuh cinta". sekalinya bujuran terjadi. pokoknya disini aku jua sudah mulai
+                ada perasaan, pas bulik kerumah rasa nya bahagia, berbunga bunga, kada sabar bechattan lawan kam membahas banyak hal. </p>
+        </div>
+        <div class="photo">
+            <img src="ami5.jpg" alt="Foto 3">
+            <p>jadi ni kita lagi jalan jalan sebagai kawan ja kisahnya. pas hari itu ayang aku meambili kerumah  terus jalan jalan ke dm.
+                terus pas sudah di dm kita jalan jalan biasa ja, bahkan ayang aku kada kepikiran gasan nembak, terus ternyata inya nembak aku,
+                mungkin karena suasana dan timingnya pas jadi inya langsung nembak spontan, jar ayang aku inya gugup tapi excited, dan ada rasa
+                tekutan ditolak jua, karena posisi kami hanyar kenal. dan tanggal 17 oktober 2023 jadi tanggal jadian kita. bahkan pas hari itu jua
+                ayang aku ketemu mama lawan kaka ku. walau belum direstui, tapi ayang aku selalu berusaha dan sabar supaya direstui. makasih ayang
+                sudah selalu bertahan walau mama aku marah marah terus. inti nya makasih banyak kam selalu menghibur dan menyemangati aku.
+            </p>
+        </div>
+        <div class="photo">
+            <img src="ami4.jpg" alt="Foto 3">
+            <p>menurutku ni salah satu momen berkesan, kam effort banar supaya kawanku ketemuan, 
+                terus kam effort banar nukar wadai gasanku behujan hujan. kam selalu ngira kalo surprise kam gagal
+            tapi sebenarnya berhasil 100%. lawan jua momen yang paling aku ingat tu pas kam memoto akan aku di tangga,
+            aku kada kawa lupa soal itu. intinya aku berterima kasih banar wan kam sudah effort gasan aku, ikam mengusahakan
+            aku happy tarus pas aku ulang tahun. 🌸</p>
+        </div>
+        <div class="photo">
+            <img src="ami2.jpg" alt="Foto 3">
+            <p>kita sudah melewati banyak rintangan dan masalah sama sama, melawan ego, dan selalu sabar menghadapi sifat masing masing
+                sampai kita bisa di tahap ini kada mudah, banyak rasa sayang, ikhlas, komunikasi, dan sabar. aku sayang banar wan kam, dan semoga
+                kam jua makin sayang wan aku, kam selalu berusaha yang terbaik gasan kita, semoga tahun ke tahun dan tahun keberapa pun kita tetap sama sama.
+                dan aku harap setelah kam meliat semua kenangan kita ini, kam semakin merasa kam sudah banyak berbagi memori wan aku, dan selanjutnya
+                bakalan seperti ini terus. dan semoga kita selalu sama sama sampai pulang kerumah yang sama. makasih karena sudah selalu mengusahakan gasan kita.   🌸</p>
+        </div>
+
+    </div>
+</body>
+</html>
+
