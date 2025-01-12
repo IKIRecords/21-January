@@ -7,15 +7,31 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <audio controls>
-        <source src="assets/Sampai Jadi Debu - Banda Naira (Lirik Lagu) - Despi Lirik.mp3" type="audio/mp3">
-        Your browser does not support the audio element.
-    </audio>
     
 </body>
 </html>
-
+<div style="text-align: center; margin-top: 20px;">
+    <audio id="audioPlayer" src="Sampai Jadi Debu - Banda Naira (Lirik Lagu) - Despi Lirik.mp3"></audio>
+    <button id="playPauseButton" style="padding: 10px 20px; background-color: #ff69b4; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Play 🎵
+    </button>
+  </div>
+  
+  <script>
+    const audio = document.getElementById("audioPlayer");
+    const button = document.getElementById("playPauseButton");
+  
+    button.addEventListener("click", () => {
+      if (audio.paused) {
+        audio.play();
+        button.textContent = "Pause ⏸️";
+      } else {
+        audio.pause();
+        button.textContent = "Play 🎵";
+      }
+    });
+  </script>
+  
     <div class="container">
         <h1 class="title">Selamat Ulang Tahun, Najmi! 🌸✨</h1>
         <p class="subtitle">Website ini dibuat oleh Intan cantik untuk Najmi tersayang 💖🌟</p>
